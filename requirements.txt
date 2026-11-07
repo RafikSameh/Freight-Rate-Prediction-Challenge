@@ -1,0 +1,9 @@
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.0,<3
+scikit-learn>=1.4,<2
+xgboost>=2.0,<4
+catboost>=1.2,<2
+nbformat>=5.9,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8
